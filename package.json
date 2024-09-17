@@ -1,6 +1,6 @@
 {
   "name": "Scorecard",
-  "description": "https://v2.scrimba.com/learn-javascript-c0v/~018",
+  
   "scripts": {
     "start": "vite",
     "dev": "vite",
