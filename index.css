@@ -1,7 +1,6 @@
 @font-face {
     font-family: 'Cursed Timer ULiL';
-    /*src: url('fonts/CursedTimerULiL-Aznm.ttf') format('truetype');*/
-    src: url('../fonts/CursedTimerULiL-Aznm.ttf') format('truetype');
+    src: url('/fonts/CursedTimerULiL-Aznm.ttf') format('truetype');
 }
 
 body {
